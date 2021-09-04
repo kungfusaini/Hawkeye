@@ -12,6 +12,4 @@ Here is a diagram illustrating the problem
 
 ![problem](https://user-images.githubusercontent.com/57606824/132093804-269b6d22-c300-4784-a3ab-f100de2a9d3c.png)
 
-<img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
-
-Hₒ, u, lₒ and X are known, and we wish to calculate both components of the vector v to then determine the position of the ball
+Hₒ , u , lₒ and X are known, and we wish to calculate both components of the vector v to then determine the position of the ball
